@@ -2,6 +2,7 @@ Welcome to Git!
 
 Change 1.
 
+<<<<<<< HEAD
 Change 2.
 
 change 3.
@@ -9,3 +10,6 @@ change 3.
 change 4.
 
 change 5..
+=======
+Change 2.
+>>>>>>> parent of 30c9ab1... change 3 and 4 to Testfile.txt
