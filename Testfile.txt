@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Welcome to Git!
 
 Change 1.
 
 Change 2.
+=======
+Welcome to Git!
+>>>>>>> parent of ec3b0ba... Change1 in Testfile1.txt
