@@ -6,4 +6,4 @@ BUG Found.
 
 BUG Resolved.
 
-Remote Push.
+Remote Push. //This is made on remote
